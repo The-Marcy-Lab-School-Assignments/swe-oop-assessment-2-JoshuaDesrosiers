@@ -204,7 +204,6 @@ Well when we use inheritance we think about the basics, what are the main basic 
 
 We can make extensions of this base digitalPet, and for polymorphism sake add an extra method in each called `useAbility`. For dogs the ability is `chase`, cats: `hunt`, and birds `fly`.
 
-
 **Part B:** Explain one advantage of using inheritance here instead of creating three completely separate classes.
 
 Inheritance takes away from the chaos or confusion of repetitive classes or heavy one-size-fits-all classes, it allows us to reuse code and pass methods down onto similar yet different versions of a base class. Thus saving memory and time and giving your code a level of readability that might just get you the job!
